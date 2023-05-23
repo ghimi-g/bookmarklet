@@ -5,6 +5,7 @@
 a small bookmark generator,you can build your bookmarklet on a page and drag it on your favorites.<br/>
 [example](https://ghimi-g.github.io/bookmarklet/index.html)
 
+```html
 <!DOCTYPE html>  
 <html>  
   <head>  
@@ -63,4 +64,4 @@ a small bookmark generator,you can build your bookmarklet on a page and drag it 
     </script>  
   </body>  
 </html>  
-
+```
